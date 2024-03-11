@@ -1,6 +1,6 @@
 package ejercicio03;
 
-import ArraysStringsHashTables.excercise03.GroupAnagrams;
+import ArraysStringsHashTables.exercise03.GroupAnagrams;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

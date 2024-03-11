@@ -1,6 +1,6 @@
 package ejercicio01;
 
-import ArraysStringsHashTables.excercise01.IsUnique;
+import ArraysStringsHashTables.exercise01.IsUnique;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

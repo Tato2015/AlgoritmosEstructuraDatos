@@ -1,6 +1,6 @@
 package ejercicio02;
 
-import ArraysStringsHashTables.excercise02.TwoSum;
+import ArraysStringsHashTables.exercise02.TwoSum;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

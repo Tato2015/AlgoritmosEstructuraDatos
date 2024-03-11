@@ -1,6 +1,6 @@
 package ejercicio04;
 
-import ArraysStringsHashTables.excercise04.ZeroMatrix;
+import ArraysStringsHashTables.exercise04.ZeroMatrix;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
